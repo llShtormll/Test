@@ -2,7 +2,7 @@
 #include <iomanip>
 using namespace std;
 #define FURR
-//#define FURR_2
+#define FURR_2
 
 void main()
 {
