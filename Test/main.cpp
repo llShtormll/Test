@@ -1,4 +1,4 @@
-#include<iostream>
+ï»¿#include<iostream>
 #include <iomanip>
 using namespace std;
 #define FURR
@@ -7,7 +7,7 @@ using namespace std;
 void main()
 {
 	setlocale(LC_ALL, "");
-	int n; cout << "Ââåäèòå ÷èñëî; "; cin >> n;
+	int n; cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ñ‡Ð¸ÑÐ»Ð¾; "; cin >> n;
 #ifdef FURR
 	for (int i = 0; i <= n; i++)
 	{
